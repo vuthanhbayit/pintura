@@ -1,0 +1,10 @@
+{
+  "name": "@vt7/pintura",
+  "version": "8.16.1",
+  "browser": "pintura.js",
+  "main": "pintura.js",
+  "types": "pintura.d.ts",
+  "publishConfig": {
+    "access": "public"
+  }
+}
